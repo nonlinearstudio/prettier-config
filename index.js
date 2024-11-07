@@ -1,4 +1,4 @@
-const config = {
+module.exports = {
     semi: false,
     singleQuote: true,
     tabWidth: 2,
@@ -6,5 +6,3 @@ const config = {
     printWidth: 80,
     plugins: ["prettier-plugin-astro"]
 }
-
-export default config
