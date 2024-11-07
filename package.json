@@ -7,6 +7,7 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": "git@github.com:nonlinearstudio/prettier-config.git",
   "description": "",
   "dependencies": {
     "prettier-plugin-astro": "^0.14.1"
