@@ -1,5 +1,5 @@
 {
-  "name": "@prettier/non-linear",
+  "name": "@karljstn/prettier-config",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
