@@ -8,13 +8,13 @@ Make sure to install the dependency as a dev dependency in your project:
 
 ```bash
 # npm
-npm install -D @karljstn/prettier-config
+npm install -D @linear_non/prettier-config
 ```
 
 Create a .prettierrc file at the root of your project, with just this line inside
 
 ```bash
-"@karljstn/prettier-config"
+"@linear_non/prettier-config"
 ```
 
 In VSCode,
