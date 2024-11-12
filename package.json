@@ -1,8 +1,9 @@
 {
   "name": "@karljstn/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "index.js",
   "type": "module",
+  "exports": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +11,13 @@
   "license": "ISC",
   "repository": "git@github.com:nonlinearstudio/prettier-config.git",
   "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "prettier-plugin-astro": "^0.14.1"
+  },
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
   }
 }
