@@ -1,6 +1,6 @@
 {
   "name": "@karljstn/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "type": "module",
   "exports": "./index.js",
